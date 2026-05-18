@@ -1,5 +1,12 @@
 # Retail_Customer_Churn_Prediction
 
+### Background Information
+​Welcome—we’re excited you’re here.
+
+​BCG X is the tech build and design unit of BCG where our teams combine cutting-edge technology, data science, and human-centered design to build and scale the bold ideas that deliver real impact for our clients. Today, you’ll be stepping into the shoes of a BCG X Data Scientist to gain first-hand experience solving complex problems at the intersection of business, data, and technology.
+
+​In this simulation, you’ll be working with a case team to help a client, PowerCo, investigate a problem with customer churn. PowerCo suspects price sensitivity is driving their customers to switch providers—the data tells a more complex story. Your job is to dig into the data, develop hypotheses, build predictive models, and translate your insights into strategic recommendations.
+
 ### Project Overview
 - This project focuses on predicting customer churn in a retail/energy dataset using machine learning techniques.
 - The goal is to identify customers who are likely to leave, helping businesses take proactive retention actions.
